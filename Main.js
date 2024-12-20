@@ -1,17 +1,3 @@
-let icon = document.querySelector(".icon");
-let ul = document.querySelector("ul");
-
-icon.addEventListener("click", ()=>{
-    ul.classList.toggle("showData");
-    
-    if(ul.className == "showData"){
-        document.getElementById("bar").className= "fa-solid fa-xmark";
-    }else{
-        document.getElementById("bar").className= "fa-solid fa-bars";
-
-    }
-})
-
 
 // navbar
 
@@ -134,9 +120,6 @@ console.log(crd);
             alert("Thanks for connect");
         }
     }
-    function toggleMenu() {
-        const menu = document.getElementById("menu");
-        menu.classList.toggle("showData");
-    }
+   
     
        
