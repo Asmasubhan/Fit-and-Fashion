@@ -67,13 +67,13 @@ This website is fully responsive and optimized for mobile, tablet, and desktop v
 ```
 
 ## Key Sections in the README:
-1. **Project Overview**: Describes the website's purpose, offering a mix of fitness and fashion products.
-2. **Features**: Lists key features like trending clothing, customer reviews, and a blog.
-3. **Technologies Used**: Highlights HTML, CSS, JavaScript, Font Awesome, and Google Fonts.
-4. **Setup**: Provides clear instructions on how to set up the project locally.
-5. **File Structure**: Describes the contents of the project’s repository.
-6. **Usage**: Describes how each page functions, including shopping and blogging.
-7. **Responsive Design**: Explains how the website is optimized for various devices.
-8. **Credits**: Acknowledges the use of external resources like Font Awesome.
+1. Project Overview: Describes the website's purpose, offering a mix of fitness and fashion products.
+2. Features: Lists key features like trending clothing, customer reviews, and a blog.
+3. Technologies Used: Highlights HTML, CSS, JavaScript, Font Awesome, and Google Fonts.
+4. Setup: Provides clear instructions on how to set up the project locally.
+5. File Structure: Describes the contents of the project’s repository.
+6. Usage: Describes how each page functions, including shopping and blogging.
+7. Responsive Design: Explains how the website is optimized for various devices.
+8. Credits: Acknowledges the use of external resources like Font Awesome.
 
 This should be a complete, clear, and user-friendly `README.md` for your **Fit & Fashion** project.
